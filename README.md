@@ -1,2 +1,1 @@
-# KiMage44.github.io
-<h1> An old website project about me</h1>
+This is my portfolio website, which I will be tinkering with as my skills improve and my freetime appears
